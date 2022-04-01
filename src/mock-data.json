@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "srNo": 1,
+    "nameofbook": "BhagavadGita",
+    "status": "Return",
+    "phoneno": "333-962-7516"
+  },
+  {
+    "id": 2,
+    "srNo": 2,
+    "nameofbook": "HolyQuran",
+    "status": "Pending",
+    "phoneno": "333-962-7516"
+  },
+  {
+    "id": 3,
+    "srNo": 3,
+    "nameofbook": "HolyBible",
+    "status": "Return",
+    "phoneno": "333-962-7516"
+  },
+  {
+    "id": 4,
+    "srNo": 4,
+    "nameofbook": "TheAlchemist",
+    "status": "Pending",
+    "phoneno": "333-962-7516"
+  },
+  {
+    "id": 5,
+    "srNo": 5,
+    "nameofbook": "TheLittlePrince",
+    "status": "Return",
+    "phoneno": "333-962-7516"
+  }
+]
